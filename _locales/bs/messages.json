@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Onemogući FB Automatsko Osvježavanje",
+    "description": "Naziv proširenja."
+  },
+  "extensionDescription": {
+    "message": "Sprječava automatsko osvježavanje Facebook kartica zbog dugotrajne neaktivnosti.",
+    "description": "Opis proširenja."
+  }
+}
+

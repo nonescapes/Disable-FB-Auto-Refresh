@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Deaktiver FB Auto-Opdatering",
+    "description": "Navnet på udvidelsen."
+  },
+  "extensionDescription": {
+    "message": "Forhindrer Facebook-faner i at opdatere automatisk på grund af langvarig inaktivitet.",
+    "description": "Beskrivelsen af udvidelsen."
+  }
+}
+

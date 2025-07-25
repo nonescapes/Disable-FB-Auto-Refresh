@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Вимкнути Автооновлення FB",
+    "description": "Назва розширення."
+  },
+  "extensionDescription": {
+    "message": "Запобігає автоматичному оновленню вкладок Facebook через тривалу бездіяльність.",
+    "description": "Опис розширення."
+  }
+}
+

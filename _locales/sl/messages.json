@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Onemogoči FB Samodejno Osveževanje",
+    "description": "Ime razširitve."
+  },
+  "extensionDescription": {
+    "message": "Preprečuje samodejno osveževanje Facebook zavihkov zaradi dolgotrajne neaktivnosti.",
+    "description": "Opis razširitve."
+  }
+}
+

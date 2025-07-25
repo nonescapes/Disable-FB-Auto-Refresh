@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Zakázať FB Automatické Obnovenie",
+    "description": "Názov rozšírenia."
+  },
+  "extensionDescription": {
+    "message": "Zabraňuje automatickému obnovovaniu kariet Facebook kvôli dlhodobej nečinnosti.",
+    "description": "Popis rozšírenia."
+  }
+}
+

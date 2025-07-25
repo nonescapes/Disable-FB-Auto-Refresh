@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Inaktivera FB Auto-Uppdatering",
+    "description": "Namnet på tillägget."
+  },
+  "extensionDescription": {
+    "message": "Förhindrar att Facebook-flikar uppdateras automatiskt på grund av långvarig inaktivitet.",
+    "description": "Beskrivningen av tillägget."
+  }
+}
+

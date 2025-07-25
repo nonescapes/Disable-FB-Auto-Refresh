@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "FB Auto-Vernieuwen Uitschakelen",
+    "description": "De naam van de extensie."
+  },
+  "extensionDescription": {
+    "message": "Voorkomt dat Facebook-tabbladen automatisch vernieuwen vanwege langdurige inactiviteit.",
+    "description": "De beschrijving van de extensie."
+  }
+}
+

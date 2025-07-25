@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Deshabilitar actualización automática de FB",
+    "description": "El nombre de la extensión."
+  },
+  "extensionDescription": {
+    "message": "Evita que las pestañas de Facebook se actualicen automáticamente debido a la inactividad prolongada.",
+    "description": "La descripción de la extensión."
+  }
+}
+

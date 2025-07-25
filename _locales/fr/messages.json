@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Désactiver l'actualisation automatique FB",
+    "description": "Le nom de l'extension."
+  },
+  "extensionDescription": {
+    "message": "Empêche les onglets Facebook de s'actualiser automatiquement en raison d'une inactivité prolongée.",
+    "description": "La description de l'extension."
+  }
+}
+

@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Nonaktifkan Refresh Otomatis FB",
+    "description": "Nama ekstensi."
+  },
+  "extensionDescription": {
+    "message": "Mencegah tab Facebook melakukan refresh otomatis karena tidak aktif dalam waktu lama.",
+    "description": "Deskripsi ekstensi."
+  }
+}
+

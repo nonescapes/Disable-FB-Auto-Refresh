@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "FB Otomatik Yenilemeyi Devre Dışı Bırak",
+    "description": "Uzantının adı."
+  },
+  "extensionDescription": {
+    "message": "Facebook sekmelerinin uzun süre hareketsizlik nedeniyle otomatik olarak yenilenmesini engeller.",
+    "description": "Uzantının açıklaması."
+  }
+}
+

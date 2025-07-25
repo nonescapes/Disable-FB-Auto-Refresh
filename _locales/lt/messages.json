@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Išjungti FB Automatinį Atnaujinimą",
+    "description": "Plėtinio pavadinimas."
+  },
+  "extensionDescription": {
+    "message": "Neleidžia Facebook skirtukams automatiškai atsinaujinti dėl ilgalaikio neveiklumo.",
+    "description": "Plėtinio aprašymas."
+  }
+}
+

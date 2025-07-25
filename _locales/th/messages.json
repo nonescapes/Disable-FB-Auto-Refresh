@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "ปิดการรีเฟรชอัตโนมัติ FB",
+    "description": "ชื่อของส่วนขยาย"
+  },
+  "extensionDescription": {
+    "message": "ป้องกันไม่ให้แท็บ Facebook รีเฟรชอัตโนมัติเนื่องจากไม่มีการใช้งานเป็นเวลานาน",
+    "description": "คำอธิบายของส่วนขยาย"
+  }
+}
+

@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Poista FB Automaattinen Päivitys",
+    "description": "Laajennuksen nimi."
+  },
+  "extensionDescription": {
+    "message": "Estää Facebook-välilehtien automaattisen päivittymisen pitkäaikaisen toimettomuuden vuoksi.",
+    "description": "Laajennuksen kuvaus."
+  }
+}
+

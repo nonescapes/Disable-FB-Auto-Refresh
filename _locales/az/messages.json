@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "FB Avtomatik Yenilənməni Söndür",
+    "description": "Genişləndirmənin adı."
+  },
+  "extensionDescription": {
+    "message": "Uzun müddət fəaliyyətsizlik səbəbindən Facebook tablarının avtomatik yenilənməsinin qarşısını alır.",
+    "description": "Genişləndirmənin təsviri."
+  }
+}
+

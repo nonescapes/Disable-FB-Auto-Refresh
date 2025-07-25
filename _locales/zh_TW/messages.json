@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "禁用 FB 自動刷新",
+    "description": "擴充功能的名稱。"
+  },
+  "extensionDescription": {
+    "message": "防止 Facebook 分頁因長時間閒置而自動刷新。",
+    "description": "擴充功能的描述。"
+  }
+}
+

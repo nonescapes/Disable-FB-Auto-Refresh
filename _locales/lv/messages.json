@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Atspējot FB Automātisko Atjaunošanu",
+    "description": "Paplašinājuma nosaukums."
+  },
+  "extensionDescription": {
+    "message": "Novērš Facebook ciļņu automātisko atjaunošanu ilgstošas neaktivitātes dēļ.",
+    "description": "Paplašinājuma apraksts."
+  }
+}
+

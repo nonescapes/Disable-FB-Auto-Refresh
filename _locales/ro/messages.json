@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Dezactivează Reîmprospătarea Automată FB",
+    "description": "Numele extensiei."
+  },
+  "extensionDescription": {
+    "message": "Previne reîmprospătarea automată a filelor Facebook din cauza inactivității prelungite.",
+    "description": "Descrierea extensiei."
+  }
+}
+

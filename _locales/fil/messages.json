@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "I-disable ang FB Auto-Refresh",
+    "description": "Ang pangalan ng extension."
+  },
+  "extensionDescription": {
+    "message": "Pinipigilan ang mga tab ng Facebook na mag-auto-refresh dahil sa matagal na hindi paggamit.",
+    "description": "Ang paglalarawan ng extension."
+  }
+}
+

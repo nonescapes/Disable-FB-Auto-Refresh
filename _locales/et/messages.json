@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Keela FB Automaatne Värskendamine",
+    "description": "Laienduse nimi."
+  },
+  "extensionDescription": {
+    "message": "Takistab Facebook'i vahekaartide automaatset värskendamist pikaajalise passiivsuse tõttu.",
+    "description": "Laienduse kirjeldus."
+  }
+}
+

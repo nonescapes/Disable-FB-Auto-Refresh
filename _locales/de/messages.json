@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "FB Auto-Aktualisierung deaktivieren",
+    "description": "Der Name der Erweiterung."
+  },
+  "extensionDescription": {
+    "message": "Verhindert, dass Facebook-Tabs aufgrund längerer Inaktivität automatisch aktualisiert werden.",
+    "description": "Die Beschreibung der Erweiterung."
+  }
+}
+

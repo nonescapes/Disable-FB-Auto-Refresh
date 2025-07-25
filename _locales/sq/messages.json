@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Çaktivizo Rifreskimin Automatik të FB",
+    "description": "Emri i shtesës."
+  },
+  "extensionDescription": {
+    "message": "Parandalon rifreskimin automatik të skedave të Facebook për shkak të pasivitetit të zgjatur.",
+    "description": "Përshkrimi i shtesës."
+  }
+}
+

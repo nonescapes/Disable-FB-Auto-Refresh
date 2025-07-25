@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Tắt Tự Động Làm Mới FB",
+    "description": "Tên của tiện ích mở rộng."
+  },
+  "extensionDescription": {
+    "message": "Ngăn các tab Facebook tự động làm mới do không hoạt động trong thời gian dài.",
+    "description": "Mô tả của tiện ích mở rộng."
+  }
+}
+

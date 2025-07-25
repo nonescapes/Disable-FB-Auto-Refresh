@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "השבת רענון אוטומטי של FB",
+    "description": "שם התוסף."
+  },
+  "extensionDescription": {
+    "message": "מונע מלשוניות פייסבוק להתרענן אוטומטית בגלל חוסר פעילות ממושך.",
+    "description": "תיאור התוסף."
+  }
+}
+

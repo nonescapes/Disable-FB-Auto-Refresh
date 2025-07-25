@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Wyłącz Automatyczne Odświeżanie FB",
+    "description": "Nazwa rozszerzenia."
+  },
+  "extensionDescription": {
+    "message": "Zapobiega automatycznemu odświeżaniu kart Facebook z powodu długotrwałej bezczynności.",
+    "description": "Opis rozszerzenia."
+  }
+}
+

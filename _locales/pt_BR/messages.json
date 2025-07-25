@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Desativar Atualização Automática do FB",
+    "description": "O nome da extensão."
+  },
+  "extensionDescription": {
+    "message": "Impede que as abas do Facebook sejam atualizadas automaticamente devido à inatividade prolongada.",
+    "description": "A descrição da extensão."
+  }
+}
+

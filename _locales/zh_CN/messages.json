@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "禁用 FB 自动刷新",
+    "description": "扩展程序的名称。"
+  },
+  "extensionDescription": {
+    "message": "防止 Facebook 标签页因长时间闲置而自动刷新。",
+    "description": "扩展程序的描述。"
+  }
+}
+

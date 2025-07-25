@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Nyahaktifkan Auto-Refresh FB",
+    "description": "Nama sambungan."
+  },
+  "extensionDescription": {
+    "message": "Menghalang tab Facebook daripada auto-refresh disebabkan tidak aktif yang berpanjangan.",
+    "description": "Penerangan sambungan."
+  }
+}
+

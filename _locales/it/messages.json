@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Disabilita Aggiornamento Automatico FB",
+    "description": "Il nome dell'estensione."
+  },
+  "extensionDescription": {
+    "message": "Impedisce alle schede di Facebook di aggiornarsi automaticamente a causa di inattività prolungata.",
+    "description": "La descrizione dell'estensione."
+  }
+}
+
