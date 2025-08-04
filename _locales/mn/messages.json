@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "FB автомат шинэчлэлтийг идэвхгүй болгох",
-    "description": "Өргөтгөлийн нэр."
+    "message": "FB автомат шинэчлэлтийг идэвхгүй болгох"
   },
   "extensionDescription": {
-    "message": "Удаан хугацаагаар идэвхгүй байснаас болж Facebook табуудыг автоматаар шинэчлэхээс сэргийлнэ.",
-    "description": "Өргөтгөлийн тайлбар."
+    "message": "Арын үйл ажиллагааг дуурайлгаснаар идэвхгүй байдлаас болж Facebook хуудас автоматаар шинэчлэгдэхээс сэргийлнэ."
+  },
+  "popupChecking": {
+    "message": "Төлөв шалгаж байна..."
+  },
+  "popupActive": {
+    "message": "Нэмэлт идэвхтэй байна"
+  },
+  "popupInactiveScript": {
+    "message": "Скрипт ачаалагдаагүй. Шинэчилнэ үү."
+  },
+  "popupInactivePage": {
+    "message": "Facebook хуудас биш"
+  },
+  "popupInactiveError": {
+    "message": "Скриптийн алдаа. Шинэчилнэ үү."
+  },
+  "popupInactiveDetect": {
+    "message": "Хуудсыг илрүүлж чадахгүй байна"
+  },
+  "popupRate": {
+    "message": "Дэлгүүрт үнэлэх"
   }
 }
-

@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "I-disable ang FB Auto-Refresh",
-    "description": "Ang pangalan ng extension."
+    "message": "Huwag paganahin ang Auto-Refresh ng FB"
   },
   "extensionDescription": {
-    "message": "Pinipigilan ang mga tab ng Facebook na mag-auto-refresh dahil sa matagal na hindi paggamit.",
-    "description": "Ang paglalarawan ng extension."
+    "message": "Pinipigilan ang awtomatikong pag-refresh ng pahina ng Facebook dahil sa kawalan ng aktibidad sa pamamagitan ng pag-simulate ng aktibidad sa background."
+  },
+  "popupChecking": {
+    "message": "Sinusuri ang status..."
+  },
+  "popupActive": {
+    "message": "Aktibo ang plugin"
+  },
+  "popupInactiveScript": {
+    "message": "Hindi na-load ang script. Paki-refresh."
+  },
+  "popupInactivePage": {
+    "message": "Hindi isang Facebook page"
+  },
+  "popupInactiveError": {
+    "message": "Error sa script. Paki-refresh."
+  },
+  "popupInactiveDetect": {
+    "message": "Hindi ma-detect ang page"
+  },
+  "popupRate": {
+    "message": "I-rate sa Store"
   }
 }
-

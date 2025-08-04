@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "FB Automatikus Frissítés Letiltása",
-    "description": "A bővítmény neve."
+    "message": "FB automatikus frissítés letiltása"
   },
   "extensionDescription": {
-    "message": "Megakadályozza, hogy a Facebook lapok automatikusan frissüljenek hosszú tétlenség miatt.",
-    "description": "A bővítmény leírása."
+    "message": "Megakadályozza a Facebook oldal automatikus frissítését inaktivitás miatt háttértevékenység szimulálásával."
+  },
+  "popupChecking": {
+    "message": "Állapot ellenőrzése..."
+  },
+  "popupActive": {
+    "message": "A plugin aktív"
+  },
+  "popupInactiveScript": {
+    "message": "A szkript nem töltődött be. Kérjük, frissítse."
+  },
+  "popupInactivePage": {
+    "message": "Nem Facebook oldal"
+  },
+  "popupInactiveError": {
+    "message": "Szkript hiba. Kérjük, frissítse."
+  },
+  "popupInactiveDetect": {
+    "message": "Nem lehet észlelni az oldalt"
+  },
+  "popupRate": {
+    "message": "Értékelje az áruházban"
   }
 }
-

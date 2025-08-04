@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "ปิดการรีเฟรชอัตโนมัติ FB",
-    "description": "ชื่อของส่วนขยาย"
+    "message": "ปิดการรีเฟรชอัตโนมัติของ FB"
   },
   "extensionDescription": {
-    "message": "ป้องกันไม่ให้แท็บ Facebook รีเฟรชอัตโนมัติเนื่องจากไม่มีการใช้งานเป็นเวลานาน",
-    "description": "คำอธิบายของส่วนขยาย"
+    "message": "ป้องกันไม่ให้หน้า Facebook รีเฟรชอัตโนมัติเนื่องจากไม่มีการใช้งานโดยการจำลองกิจกรรมในพื้นหลัง"
+  },
+  "popupChecking": {
+    "message": "กำลังตรวจสอบสถานะ..."
+  },
+  "popupActive": {
+    "message": "ปลั๊กอินทำงานอยู่"
+  },
+  "popupInactiveScript": {
+    "message": "สคริปต์ไม่ได้โหลด กรุณารีเฟรช"
+  },
+  "popupInactivePage": {
+    "message": "ไม่ใช่หน้า Facebook"
+  },
+  "popupInactiveError": {
+    "message": "ข้อผิดพลาดของสคริปต์ กรุณารีเฟรช"
+  },
+  "popupInactiveDetect": {
+    "message": "ไม่สามารถตรวจจับหน้าได้"
+  },
+  "popupRate": {
+    "message": "ให้คะแนนในร้านค้า"
   }
 }
-

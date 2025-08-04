@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "Disable FB Auto-Refresh",
-    "description": "The name of the extension."
+    "message": "Disable FB Auto-Refresh"
   },
   "extensionDescription": {
-    "message": "Prevents Facebook tabs from auto-refreshing due to prolonged inactivity.",
-    "description": "The description of the extension."
+    "message": "Prevents the Facebook page from automatically refreshing due to inactivity by simulating background activity."
+  },
+  "popupChecking": {
+    "message": "Checking status..."
+  },
+  "popupActive": {
+    "message": "Plugin is active"
+  },
+  "popupInactiveScript": {
+    "message": "Script not loaded. Please refresh."
+  },
+  "popupInactivePage": {
+    "message": "Not a Facebook page"
+  },
+  "popupInactiveError": {
+    "message": "Script error. Please refresh."
+  },
+  "popupInactiveDetect": {
+    "message": "Can't detect page"
+  },
+  "popupRate": {
+    "message": "Rate on Store"
   }
 }
-

@@ -18,16 +18,16 @@ let activityInterval = null;
  * 以欺騙閒置偵測機制。
  */
 function simulateAdvancedActivity() {
-    // 模擬焦點事件，讓頁面認為使用者正在互動
-    window.dispatchEvent(new Event('focus'));
-    
+    // 模擬焦點事件，讓頁面認為使用者正在互動
+    window.dispatchEvent(new Event('focus'));
+
     // 模擬在頁面 body 上的點擊事件
-    document.body.dispatchEvent(new MouseEvent('click', { bubbles: true }));
-    
+    document.body.dispatchEvent(new MouseEvent('click', { bubbles: true }));
+
     // 模擬微小的滾動，這是許多網站偵測活動的方式之一
-    window.scrollBy(0, 1);
-    window.scrollBy(0, -1);
-    
+    window.scrollBy(0, 1);
+    window.scrollBy(0, -1);
+
     console.log('[Anti-Refresh] 已執行一次背景活動模擬。');
 }
 
@@ -36,11 +36,26 @@ function simulateAdvancedActivity() {
  * 如果計時器已在執行中，則不會重複啟動。
  */
 function startActivitySimulation() {
-    if (activityInterval) return; // 如果已經在執行，則直接返回
-    activityInterval = setInterval(simulateAdvancedActivity, SIMULATE_ACTIVITY_INTERVAL_MS);
-    console.log('[Anti-Refresh] 已啟用保護 3: 強化活動模擬。');
+    if (activityInterval) return; // 如果已經在執行，則直接返回
+    activityInterval = setInterval(simulateAdvancedActivity, SIMULATE_ACTIVITY_INTERVAL_MS);
+    console.log('[Anti-Refresh] 已啟用保護 3: 強化活動模擬。');
 }
 
 // --- 啟動 ---
 // 腳本載入後直接啟動活動模擬
 startActivitySimulation();
+
+
+// =================================================================
+// --- 新增部分：與 popup.js 的通訊監聽器 ---
+// 用於回應來自 popup 的狀態檢查請求，不影響原有功能
+// =================================================================
+chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
+    // 檢查收到的訊息是否為我們定義的狀態檢查請求
+    if (request.type === 'CHECK_STATUS') {
+        // 回應一個包含 'active' 狀態的物件，表示 content script 正在運作
+        sendResponse({ status: 'active' });
+    }
+    // 返回 true 很重要，它告訴 Chrome 我們將會非同步地發送回應
+    return true;
+});

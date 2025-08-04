@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "Вимкнути Автооновлення FB",
-    "description": "Назва розширення."
+    "message": "Вимкнути автооновлення FB"
   },
   "extensionDescription": {
-    "message": "Запобігає автоматичному оновленню вкладок Facebook через тривалу бездіяльність.",
-    "description": "Опис розширення."
+    "message": "Запобігає автоматичному оновленню сторінки Facebook через бездіяльність, імітуючи фонову активність."
+  },
+  "popupChecking": {
+    "message": "Перевірка статусу..."
+  },
+  "popupActive": {
+    "message": "Плагін активний"
+  },
+  "popupInactiveScript": {
+    "message": "Скрипт не завантажено. Будь ласка, оновіть."
+  },
+  "popupInactivePage": {
+    "message": "Це не сторінка Facebook"
+  },
+  "popupInactiveError": {
+    "message": "Помилка скрипта. Будь ласка, оновіть."
+  },
+  "popupInactiveDetect": {
+    "message": "Не вдалося визначити сторінку"
+  },
+  "popupRate": {
+    "message": "Оцінити в магазині"
   }
 }
-

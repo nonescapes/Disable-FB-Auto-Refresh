@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "Απενεργοποίηση Αυτόματης Ανανέωσης FB",
-    "description": "Το όνομα της επέκτασης."
+    "message": "Απενεργοποίηση αυτόματης ανανέωσης FB"
   },
   "extensionDescription": {
-    "message": "Εμποδίζει τις καρτέλες του Facebook να ανανεώνονται αυτόματα λόγω παρατεταμένης αδράνειας.",
-    "description": "Η περιγραφή της επέκτασης."
+    "message": "Αποτρέπει την αυτόματη ανανέωση της σελίδας Facebook λόγω αδράνειας προσομοιώνοντας δραστηριότητα στο παρασκήνιο."
+  },
+  "popupChecking": {
+    "message": "Έλεγχος κατάστασης..."
+  },
+  "popupActive": {
+    "message": "Το plugin είναι ενεργό"
+  },
+  "popupInactiveScript": {
+    "message": "Το script δεν φορτώθηκε. Παρακαλώ ανανεώστε."
+  },
+  "popupInactivePage": {
+    "message": "Δεν είναι σελίδα Facebook"
+  },
+  "popupInactiveError": {
+    "message": "Σφάλμα script. Παρακαλώ ανανεώστε."
+  },
+  "popupInactiveDetect": {
+    "message": "Δεν μπορώ να εντοπίσω τη σελίδα"
+  },
+  "popupRate": {
+    "message": "Αξιολογήστε στο κατάστημα"
   }
 }
-

@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "Atspējot FB Automātisko Atjaunošanu",
-    "description": "Paplašinājuma nosaukums."
+    "message": "Atspējot FB automātisko atjaunošanu"
   },
   "extensionDescription": {
-    "message": "Novērš Facebook ciļņu automātisko atjaunošanu ilgstošas neaktivitātes dēļ.",
-    "description": "Paplašinājuma apraksts."
+    "message": "Novērš Facebook lapas automātisko atjaunošanu neaktivitātes dēļ, simulējot fona darbību."
+  },
+  "popupChecking": {
+    "message": "Pārbauda statusu..."
+  },
+  "popupActive": {
+    "message": "Spraudnis ir aktīvs"
+  },
+  "popupInactiveScript": {
+    "message": "Skripts nav ielādēts. Lūdzu, atjaunojiet."
+  },
+  "popupInactivePage": {
+    "message": "Nav Facebook lapa"
+  },
+  "popupInactiveError": {
+    "message": "Skripta kļūda. Lūdzu, atjaunojiet."
+  },
+  "popupInactiveDetect": {
+    "message": "Nevar noteikt lapu"
+  },
+  "popupRate": {
+    "message": "Novērtēt veikalā"
   }
 }
-

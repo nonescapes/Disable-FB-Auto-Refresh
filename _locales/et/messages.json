@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "Keela FB Automaatne Värskendamine",
-    "description": "Laienduse nimi."
+    "message": "Keela FB automaatne värskendamine"
   },
   "extensionDescription": {
-    "message": "Takistab Facebook'i vahekaartide automaatset värskendamist pikaajalise passiivsuse tõttu.",
-    "description": "Laienduse kirjeldus."
+    "message": "Hoiab ära Facebooki lehe automaatse värskendamise tegevusetuse tõttu, simuleerides taustategevust."
+  },
+  "popupChecking": {
+    "message": "Olekut kontrollitakse..."
+  },
+  "popupActive": {
+    "message": "Plugin on aktiivne"
+  },
+  "popupInactiveScript": {
+    "message": "Skripti ei laaditud. Palun värskendage."
+  },
+  "popupInactivePage": {
+    "message": "Ei ole Facebooki leht"
+  },
+  "popupInactiveError": {
+    "message": "Skripti viga. Palun värskendage."
+  },
+  "popupInactiveDetect": {
+    "message": "Lehte ei saa tuvastada"
+  },
+  "popupRate": {
+    "message": "Hinda poes"
   }
 }
-

@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "Deshabilitar actualización automática de FB",
-    "description": "El nombre de la extensión."
+    "message": "Desactivar actualización automática de FB"
   },
   "extensionDescription": {
-    "message": "Evita que las pestañas de Facebook se actualicen automáticamente debido a la inactividad prolongada.",
-    "description": "La descripción de la extensión."
+    "message": "Evita que la página de Facebook se actualice automáticamente por inactividad simulando actividad en segundo plano."
+  },
+  "popupChecking": {
+    "message": "Comprobando estado..."
+  },
+  "popupActive": {
+    "message": "El plugin está activo"
+  },
+  "popupInactiveScript": {
+    "message": "Script no cargado. Por favor, actualice."
+  },
+  "popupInactivePage": {
+    "message": "No es una página de Facebook"
+  },
+  "popupInactiveError": {
+    "message": "Error de script. Por favor, actualice."
+  },
+  "popupInactiveDetect": {
+    "message": "No se puede detectar la página"
+  },
+  "popupRate": {
+    "message": "Valorar en la tienda"
   }
 }
-

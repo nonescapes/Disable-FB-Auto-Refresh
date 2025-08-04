@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "Deaktiver FB Auto-Opdatering",
-    "description": "Navnet på udvidelsen."
+    "message": "Deaktiver FB Auto-opdatering"
   },
   "extensionDescription": {
-    "message": "Forhindrer Facebook-faner i at opdatere automatisk på grund af langvarig inaktivitet.",
-    "description": "Beskrivelsen af udvidelsen."
+    "message": "Forhindrer Facebook-siden i at opdatere automatisk på grund af inaktivitet ved at simulere baggrundsaktivitet."
+  },
+  "popupChecking": {
+    "message": "Kontrollerer status..."
+  },
+  "popupActive": {
+    "message": "Plugin er aktivt"
+  },
+  "popupInactiveScript": {
+    "message": "Script ikke indlæst. Opdater venligst."
+  },
+  "popupInactivePage": {
+    "message": "Ikke en Facebook-side"
+  },
+  "popupInactiveError": {
+    "message": "Scriptfejl. Opdater venligst."
+  },
+  "popupInactiveDetect": {
+    "message": "Kan ikke registrere siden"
+  },
+  "popupRate": {
+    "message": "Bedøm i butikken"
   }
 }
-

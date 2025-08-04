@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "Onemogući automatsko osvežavanje FB",
-    "description": "Naziv proširenja."
+    "message": "Onemogući automatsko osvežavanje FB"
   },
   "extensionDescription": {
-    "message": "Sprečava automatsko osvežavanje Facebook kartica zbog duže neaktivnosti.",
-    "description": "Opis proširenja."
+    "message": "Sprečava automatsko osvežavanje Facebook stranice zbog neaktivnosti simuliranjem pozadinske aktivnosti."
+  },
+  "popupChecking": {
+    "message": "Provera statusa..."
+  },
+  "popupActive": {
+    "message": "Dodatak je aktivan"
+  },
+  "popupInactiveScript": {
+    "message": "Skripta nije učitana. Osvežite."
+  },
+  "popupInactivePage": {
+    "message": "Nije Facebook stranica"
+  },
+  "popupInactiveError": {
+    "message": "Greška skripte. Osvežite."
+  },
+  "popupInactiveDetect": {
+    "message": "Ne mogu da detektujem stranicu"
+  },
+  "popupRate": {
+    "message": "Ocenite u prodavnici"
   }
 }
-

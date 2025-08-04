@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <!-- 標題會由 manifest.json 中的 extensionName 自動載入 -->
+    <title>__MSG_extensionName__</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500&display=swap');
+
+        /* 整體樣式 */
+        body {
+            width: 300px;
+            background-color: #000000; /* 純黑背景 */
+            color: #e0e0e0;
+            font-family: 'Noto Sans TC', 'Segoe UI', sans-serif;
+            margin: 0;
+            padding: 20px;
+            box-sizing: border-box;
+            
+            /* 使用 Flexbox 實現完美的垂直和水平置中 */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: 16px; /* 當狀態區和底部都顯示時的間距 */
+            
+            /* 高度變化 */
+            min-height: 160px; /* 預設為正常運作時的高度 */
+            transition: min-height 0.2s ease-in-out; /* 高度變化動畫 */
+        }
+
+        /* 緊湊模式，用於載入中 */
+        body.compact {
+            min-height: 100px;
+        }
+        
+        /* 超緊湊模式，用於錯誤或非相關頁面 */
+        body.super-compact {
+            min-height: 80px;
+        }
+        
+        /* 狀態容器 (水平排列並置中) */
+        .status-container {
+            display: flex;
+            flex-direction: row; 
+            align-items: center;     
+            justify-content: center;
+            width: 100%;
+        }
+        
+        /* 圖示 */
+        .icon {
+            width: 56px;
+            height: 56px;
+            margin-right: 12px;
+            flex-shrink: 0;
+            display: block; /* 預設顯示 */
+        }
+
+        .icon.hidden {
+            display: none; /* 用於隱藏圖示的 class */
+        }
+
+        /* 狀態指示燈 */
+        .status-dot {
+            width: 9px;
+            height: 9px;
+            border-radius: 50%;
+            margin-right: 10px;
+            flex-shrink: 0;
+            background-color: #555;
+            transition: background-color 0.3s ease;
+        }
+        .status-dot.active { background-color: #2ecc71; }
+        .status-dot.inactive { background-color: #e74c3c; }
+
+        /* 訊息文字 */
+        #message {
+            font-size: 15px;
+            font-weight: 500;
+            margin: 0;
+            color: #ffffff;
+            text-align: center;
+            white-space: nowrap; 
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        /* 底部容器，包含分隔線和連結 */
+        .footer-container {
+            width: 100%;
+            display: none; /* 改為 display: none，預設完全不佔空間 */
+            flex-direction: column;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .footer-container.visible {
+            display: flex; /* 當需要顯示時，改為 flex */
+        }
+
+        /* 分隔線 */
+        .separator {
+            width: 100%;
+            height: 1px;
+            background-color: #333;
+            border: none;
+        }
+        
+        /* 評分連結 */
+        #rate-link-container a {
+            color: #888;
+            text-decoration: underline;
+            font-size: 13px;
+            transition: color 0.2s ease;
+        }
+
+        #rate-link-container a:hover {
+            color: #aaa;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="status-container">
+        <img src="images/icon128__.png" class="icon" alt="icon" id="main-icon">
+        <div id="status-dot" class="status-dot"></div>
+        <p id="message"></p> <!-- 文字將由 JS 填入 -->
+    </div>
+    
+    <div class="footer-container" id="footer-container">
+        <hr class="separator">
+        <div id="rate-link-container">
+             <!-- 連結將由 JS 動態建立 -->
+        </div>
+    </div>
+
+    <script src="popup.js"></script>
+
+</body>
+</html>

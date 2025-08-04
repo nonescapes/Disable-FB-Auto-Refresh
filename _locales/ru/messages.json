@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "Отключить автообновление FB",
-    "description": "Название расширения."
+    "message": "Отключить автообновление FB"
   },
   "extensionDescription": {
-    "message": "Предотвращает автоматическое обновление вкладок Facebook из-за длительного бездействия.",
-    "description": "Описание расширения."
+    "message": "Предотвращает автоматическое обновление страницы Facebook из-за бездействия, имитируя фоновую активность."
+  },
+  "popupChecking": {
+    "message": "Проверка статуса..."
+  },
+  "popupActive": {
+    "message": "Плагин активен"
+  },
+  "popupInactiveScript": {
+    "message": "Скрипт не загружен. Обновите страницу."
+  },
+  "popupInactivePage": {
+    "message": "Это не страница Facebook"
+  },
+  "popupInactiveError": {
+    "message": "Ошибка скрипта. Обновите страницу."
+  },
+  "popupInactiveDetect": {
+    "message": "Не удалось определить страницу"
+  },
+  "popupRate": {
+    "message": "Оценить в магазине"
   }
 }
-

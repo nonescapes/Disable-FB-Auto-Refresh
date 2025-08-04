@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "禁用 FB 自動刷新",
-    "description": "擴充功能的名稱。"
+    "message": "禁用 FB 自動刷新"
   },
   "extensionDescription": {
-    "message": "防止 Facebook 分頁因長時間閒置而自動刷新。",
-    "description": "擴充功能的描述。"
+    "message": "透過模擬背景活動，防止 Facebook 頁面因閒置而自動刷新。"
+  },
+  "popupChecking": {
+    "message": "正在檢查狀態..."
+  },
+  "popupActive": {
+    "message": "插件已正常運作"
+  },
+  "popupInactiveScript": {
+    "message": "腳本未載入，請刷新"
+  },
+  "popupInactivePage": {
+    "message": "非 Facebook 頁面"
+  },
+  "popupInactiveError": {
+    "message": "腳本回應異常"
+  },
+  "popupInactiveDetect": {
+    "message": "無法偵測目前頁面"
+  },
+  "popupRate": {
+    "message": "前往商店評分"
   }
 }
-

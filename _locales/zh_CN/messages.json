@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "禁用 FB 自动刷新",
-    "description": "扩展程序的名称。"
+    "message": "禁用 FB 自动刷新"
   },
   "extensionDescription": {
-    "message": "防止 Facebook 标签页因长时间闲置而自动刷新。",
-    "description": "扩展程序的描述。"
+    "message": "通过模拟背景活动，防止 Facebook 页面因闲置而自动刷新。"
+  },
+  "popupChecking": {
+    "message": "正在检查状态..."
+  },
+  "popupActive": {
+    "message": "插件已正常运作"
+  },
+  "popupInactiveScript": {
+    "message": "脚本未加载，请刷新"
+  },
+  "popupInactivePage": {
+    "message": "非 Facebook 页面"
+  },
+  "popupInactiveError": {
+    "message": "脚本响应异常"
+  },
+  "popupInactiveDetect": {
+    "message": "无法检测当前页面"
+  },
+  "popupRate": {
+    "message": "前往商店评分"
   }
 }
-

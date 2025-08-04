@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "FB ავტომატური განახლების გათიშვა",
-    "description": "გაფართოების სახელი."
+    "message": "FB ავტომატური განახლების გათიშვა"
   },
   "extensionDescription": {
-    "message": "ხელს უშლის Facebook ჩანართების ავტომატურ განახლებას ხანგრძლივი უმოქმედობის გამო.",
-    "description": "გაფართოების აღწერა."
+    "message": "ხელს უშლის Facebook გვერდის ავტომატურ განახლებას უმოქმედობის გამო ფონური აქტივობის სიმულაციით."
+  },
+  "popupChecking": {
+    "message": "სტატუსის შემოწმება..."
+  },
+  "popupActive": {
+    "message": "პლაგინი აქტიურია"
+  },
+  "popupInactiveScript": {
+    "message": "სკრიპტი არ ჩაიტვირთა. გთხოვთ განაახლოთ."
+  },
+  "popupInactivePage": {
+    "message": "არ არის Facebook გვერდი"
+  },
+  "popupInactiveError": {
+    "message": "სკრიპტის შეცდომა. გთხოვთ განაახლოთ."
+  },
+  "popupInactiveDetect": {
+    "message": "ვერ ვიცნობ გვერდს"
+  },
+  "popupRate": {
+    "message": "შეაფასეთ მაღაზიაში"
   }
 }
-

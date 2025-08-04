@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "Անջատել FB ինքնաշխատ թարմացումը",
-    "description": "Ընդլայնման անունը:"
+    "message": "Անջատել FB ավտոմատ թարմացումը"
   },
   "extensionDescription": {
-    "message": "Կանխում է Facebook ներդիրների ինքնաշխատ թարմացումը երկարատև անգործության պատճառով:",
-    "description": "Ընդլայնման նկարագրությունը:"
+    "message": "Կանխում է Facebook էջի ավտոմատ թարմացումը անգործության պատճառով՝ սիմուլյացնելով ֆոնային գործունեություն:"
+  },
+  "popupChecking": {
+    "message": "Կարգավիճակի ստուգում..."
+  },
+  "popupActive": {
+    "message": "Պլագինը ակտիվ է"
+  },
+  "popupInactiveScript": {
+    "message": "Սկրիպտը չի բեռնվել: Խնդրում ենք թարմացնել:"
+  },
+  "popupInactivePage": {
+    "message": "Դա Facebook էջ չէ"
+  },
+  "popupInactiveError": {
+    "message": "Սկրիպտի սխալ: Խնդրում ենք թարմացնել:"
+  },
+  "popupInactiveDetect": {
+    "message": "Չի կարող հայտնաբերել էջը"
+  },
+  "popupRate": {
+    "message": "Գնահատել խանութում"
   }
 }
-

@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "FB Auto-Vernieuwen Uitschakelen",
-    "description": "De naam van de extensie."
+    "message": "FB Auto-Refresh uitschakelen"
   },
   "extensionDescription": {
-    "message": "Voorkomt dat Facebook-tabbladen automatisch vernieuwen vanwege langdurige inactiviteit.",
-    "description": "De beschrijving van de extensie."
+    "message": "Voorkomt dat de Facebook-pagina automatisch vernieuwt wegens inactiviteit door achtergrondactiviteit te simuleren."
+  },
+  "popupChecking": {
+    "message": "Status controleren..."
+  },
+  "popupActive": {
+    "message": "Plugin is actief"
+  },
+  "popupInactiveScript": {
+    "message": "Script niet geladen. Vernieuw a.u.b."
+  },
+  "popupInactivePage": {
+    "message": "Geen Facebook-pagina"
+  },
+  "popupInactiveError": {
+    "message": "Scriptfout. Vernieuw a.u.b."
+  },
+  "popupInactiveDetect": {
+    "message": "Kan pagina niet detecteren"
+  },
+  "popupRate": {
+    "message": "Beoordeel in Store"
   }
 }
-

@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "Onemogoči FB Samodejno Osveževanje",
-    "description": "Ime razširitve."
+    "message": "Onemogoči samodejno osvežitev FB"
   },
   "extensionDescription": {
-    "message": "Preprečuje samodejno osveževanje Facebook zavihkov zaradi dolgotrajne neaktivnosti.",
-    "description": "Opis razširitve."
+    "message": "Preprečuje samodejno osvežitev Facebook strani zaradi neaktivnosti s simuliranjem aktivnosti v ozadju."
+  },
+  "popupChecking": {
+    "message": "Preverjanje stanja..."
+  },
+  "popupActive": {
+    "message": "Vtičnik je aktiven"
+  },
+  "popupInactiveScript": {
+    "message": "Skripta ni naložena. Prosimo, osvežite."
+  },
+  "popupInactivePage": {
+    "message": "Ni Facebook stran"
+  },
+  "popupInactiveError": {
+    "message": "Napaka skripte. Prosimo, osvežite."
+  },
+  "popupInactiveDetect": {
+    "message": "Ne morem zaznati strani"
+  },
+  "popupRate": {
+    "message": "Ocenite v trgovini"
   }
 }
-

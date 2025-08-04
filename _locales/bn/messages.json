@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "FB অটো-রিফ্রেশ নিষ্ক্রিয় করুন",
-    "description": "এক্সটেনশনের নাম।"
+    "message": "FB অটো-রিফ্রেশ নিষ্ক্রিয় করুন"
   },
   "extensionDescription": {
-    "message": "দীর্ঘ সময় নিষ্ক্রিয়তার কারণে ফেসবুক ট্যাবগুলি স্বয়ংক্রিয়ভাবে রিফ্রেশ হওয়া প্রতিরোধ করে।",
-    "description": "এক্সটেনশনের বিবরণ।"
+    "message": "ব্যাকগ্রাউন্ড কার্যকলাপ অনুকরণ করে নিষ্ক্রিয়তার কারণে Facebook পৃষ্ঠা স্বয়ংক্রিয়ভাবে রিফ্রেশ হওয়া প্রতিরোধ করে।"
+  },
+  "popupChecking": {
+    "message": "স্থিতি পরীক্ষা করা হচ্ছে..."
+  },
+  "popupActive": {
+    "message": "প্লাগইন সক্রিয় আছে"
+  },
+  "popupInactiveScript": {
+    "message": "স্ক্রিপ্ট লোড হয়নি। দয়া করে রিফ্রেশ করুন।"
+  },
+  "popupInactivePage": {
+    "message": "এটি Facebook পৃষ্ঠা নয়"
+  },
+  "popupInactiveError": {
+    "message": "স্ক্রিপ্ট ত্রুটি। দয়া করে রিফ্রেশ করুন।"
+  },
+  "popupInactiveDetect": {
+    "message": "পৃষ্ঠা সনাক্ত করতে পারছে না"
+  },
+  "popupRate": {
+    "message": "স্টোরে রেটিং দিন"
   }
 }
-

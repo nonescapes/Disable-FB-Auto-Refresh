@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "FB Avtomatik Yenilənməni Söndür",
-    "description": "Genişləndirmənin adı."
+    "message": "FB avtomatik yeniləməni söndür"
   },
   "extensionDescription": {
-    "message": "Uzun müddət fəaliyyətsizlik səbəbindən Facebook tablarının avtomatik yenilənməsinin qarşısını alır.",
-    "description": "Genişləndirmənin təsviri."
+    "message": "Arxa plan fəaliyyətini simulyasiya edərək Facebook səhifəsinin fəaliyyətsizlik səbəbindən avtomatik yenilənməsinin qarşısını alır."
+  },
+  "popupChecking": {
+    "message": "Status yoxlanılır..."
+  },
+  "popupActive": {
+    "message": "Plugin aktivdir"
+  },
+  "popupInactiveScript": {
+    "message": "Skript yüklənmədi. Zəhmət olmasa yeniləyin."
+  },
+  "popupInactivePage": {
+    "message": "Facebook səhifəsi deyil"
+  },
+  "popupInactiveError": {
+    "message": "Skript xətası. Zəhmət olmasa yeniləyin."
+  },
+  "popupInactiveDetect": {
+    "message": "Səhifəni aşkar edə bilmir"
+  },
+  "popupRate": {
+    "message": "Mağazada qiymətləndir"
   }
 }
-

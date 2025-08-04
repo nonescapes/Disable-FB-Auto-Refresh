@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "FB Auto-Aktualisierung deaktivieren",
-    "description": "Der Name der Erweiterung."
+    "message": "FB Auto-Refresh deaktivieren"
   },
   "extensionDescription": {
-    "message": "Verhindert, dass Facebook-Tabs aufgrund längerer Inaktivität automatisch aktualisiert werden.",
-    "description": "Die Beschreibung der Erweiterung."
+    "message": "Verhindert das automatische Neuladen der Facebook-Seite bei Inaktivität durch Simulation von Hintergrundaktivitäten."
+  },
+  "popupChecking": {
+    "message": "Status wird geprüft..."
+  },
+  "popupActive": {
+    "message": "Plugin ist aktiv"
+  },
+  "popupInactiveScript": {
+    "message": "Skript nicht geladen. Bitte aktualisieren."
+  },
+  "popupInactivePage": {
+    "message": "Keine Facebook-Seite"
+  },
+  "popupInactiveError": {
+    "message": "Skriptfehler. Bitte aktualisieren."
+  },
+  "popupInactiveDetect": {
+    "message": "Seite nicht erkannt"
+  },
+  "popupRate": {
+    "message": "Im Store bewerten"
   }
 }
-

@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "Оневозможи автоматско освежување на ФБ",
-    "description": "Име на проширувањето."
+    "message": "Оневозможи автоматско освежување на FB"
   },
   "extensionDescription": {
-    "message": "Спречува автоматско освежување на Facebook картичките поради долготрајна неактивност.",
-    "description": "Опис на проширувањето."
+    "message": "Спречува автоматско освежување на Facebook страницата поради неактивност со симулирање на активност во позадина."
+  },
+  "popupChecking": {
+    "message": "Проверка на статус..."
+  },
+  "popupActive": {
+    "message": "Додатокот е активен"
+  },
+  "popupInactiveScript": {
+    "message": "Скриптата не е вчитана. Ве молиме освежете."
+  },
+  "popupInactivePage": {
+    "message": "Не е Facebook страница"
+  },
+  "popupInactiveError": {
+    "message": "Грешка во скриптата. Ве молиме освежете."
+  },
+  "popupInactiveDetect": {
+    "message": "Не може да се детектира страницата"
+  },
+  "popupRate": {
+    "message": "Оценете во продавницата"
   }
 }
-

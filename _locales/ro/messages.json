@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "Dezactivează Reîmprospătarea Automată FB",
-    "description": "Numele extensiei."
+    "message": "Dezactivează reîmprospătarea automată FB"
   },
   "extensionDescription": {
-    "message": "Previne reîmprospătarea automată a filelor Facebook din cauza inactivității prelungite.",
-    "description": "Descrierea extensiei."
+    "message": "Previne reîmprospătarea automată a paginii Facebook din cauza inactivității prin simularea activității în fundal."
+  },
+  "popupChecking": {
+    "message": "Verificarea stării..."
+  },
+  "popupActive": {
+    "message": "Plugin-ul este activ"
+  },
+  "popupInactiveScript": {
+    "message": "Scriptul nu s-a încărcat. Vă rugăm să reîmprospătați."
+  },
+  "popupInactivePage": {
+    "message": "Nu este o pagină Facebook"
+  },
+  "popupInactiveError": {
+    "message": "Eroare de script. Vă rugăm să reîmprospătați."
+  },
+  "popupInactiveDetect": {
+    "message": "Nu se poate detecta pagina"
+  },
+  "popupRate": {
+    "message": "Evaluați în magazin"
   }
 }
-

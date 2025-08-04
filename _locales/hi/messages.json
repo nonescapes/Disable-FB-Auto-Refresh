@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "FB ऑटो-रिफ्रेश अक्षम करें",
-    "description": "एक्सटेंशन का नाम।"
+    "message": "FB ऑटो-रिफ्रेश अक्षम करें"
   },
   "extensionDescription": {
-    "message": "लंबे समय तक निष्क्रियता के कारण फेसबुक टैब को स्वतः रीफ्रेश होने से रोकता है।",
-    "description": "एक्सटेंशन का विवरण।"
+    "message": "पृष्ठभूमि गतिविधि का अनुकरण करके निष्क्रियता के कारण फेसबुक पेज को स्वचालित रूप से रीफ्रेश होने से रोकता है।"
+  },
+  "popupChecking": {
+    "message": "स्थिति जांची जा रही है..."
+  },
+  "popupActive": {
+    "message": "प्लगइन सक्रिय है"
+  },
+  "popupInactiveScript": {
+    "message": "स्क्रिप्ट लोड नहीं हुई। कृपया रीफ्रेश करें।"
+  },
+  "popupInactivePage": {
+    "message": "यह फेसबुक पेज नहीं है"
+  },
+  "popupInactiveError": {
+    "message": "स्क्रिप्ट त्रुटि। कृपया रीफ्रेश करें।"
+  },
+  "popupInactiveDetect": {
+    "message": "पेज का पता नहीं लगा सका"
+  },
+  "popupRate": {
+    "message": "स्टोर पर रेट करें"
   }
 }
-

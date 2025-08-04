@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "Tắt Tự Động Làm Mới FB",
-    "description": "Tên của tiện ích mở rộng."
+    "message": "Tắt Tự động làm mới FB"
   },
   "extensionDescription": {
-    "message": "Ngăn các tab Facebook tự động làm mới do không hoạt động trong thời gian dài.",
-    "description": "Mô tả của tiện ích mở rộng."
+    "message": "Ngăn trang Facebook tự động làm mới do không hoạt động bằng cách mô phỏng hoạt động nền."
+  },
+  "popupChecking": {
+    "message": "Đang kiểm tra trạng thái..."
+  },
+  "popupActive": {
+    "message": "Plugin đang hoạt động"
+  },
+  "popupInactiveScript": {
+    "message": "Chưa tải tập lệnh. Vui lòng làm mới."
+  },
+  "popupInactivePage": {
+    "message": "Không phải trang Facebook"
+  },
+  "popupInactiveError": {
+    "message": "Lỗi tập lệnh. Vui lòng làm mới."
+  },
+  "popupInactiveDetect": {
+    "message": "Không thể phát hiện trang"
+  },
+  "popupRate": {
+    "message": "Đánh giá trên Cửa hàng"
   }
 }
-

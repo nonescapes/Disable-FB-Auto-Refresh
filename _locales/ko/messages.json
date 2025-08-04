@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "FB 자동 새로고침 비활성화",
-    "description": "확장 프로그램의 이름입니다."
+    "message": "FB 자동 새로고침 비활성화"
   },
   "extensionDescription": {
-    "message": "장시간 비활성 상태로 인한 Facebook 탭의 자동 새로고침을 방지합니다.",
-    "description": "확장 프로그램에 대한 설명입니다."
+    "message": "백그라운드 활동을 시뮬레이션하여 비활성으로 인한 Facebook 페이지의 자동 새로고침을 방지합니다."
+  },
+  "popupChecking": {
+    "message": "상태 확인 중..."
+  },
+  "popupActive": {
+    "message": "플러그인 활성 중"
+  },
+  "popupInactiveScript": {
+    "message": "스크립트가 로드되지 않았습니다. 새로고침하세요."
+  },
+  "popupInactivePage": {
+    "message": "Facebook 페이지가 아닙니다"
+  },
+  "popupInactiveError": {
+    "message": "스크립트 오류. 새로고침하세요."
+  },
+  "popupInactiveDetect": {
+    "message": "페이지를 감지할 수 없습니다"
+  },
+  "popupRate": {
+    "message": "스토어에서 평가하기"
   }
 }
-

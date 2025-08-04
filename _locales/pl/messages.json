@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "Wyłącz Automatyczne Odświeżanie FB",
-    "description": "Nazwa rozszerzenia."
+    "message": "Wyłącz automatyczne odświeżanie FB"
   },
   "extensionDescription": {
-    "message": "Zapobiega automatycznemu odświeżaniu kart Facebook z powodu długotrwałej bezczynności.",
-    "description": "Opis rozszerzenia."
+    "message": "Zapobiega automatycznemu odświeżaniu strony Facebook z powodu braku aktywności poprzez symulowanie aktywności w tle."
+  },
+  "popupChecking": {
+    "message": "Sprawdzanie statusu..."
+  },
+  "popupActive": {
+    "message": "Wtyczka jest aktywna"
+  },
+  "popupInactiveScript": {
+    "message": "Skrypt nie został załadowany. Proszę odświeżyć."
+  },
+  "popupInactivePage": {
+    "message": "To nie jest strona Facebook"
+  },
+  "popupInactiveError": {
+    "message": "Błąd skryptu. Proszę odświeżyć."
+  },
+  "popupInactiveDetect": {
+    "message": "Nie można wykryć strony"
+  },
+  "popupRate": {
+    "message": "Oceń w sklepie"
   }
 }
-

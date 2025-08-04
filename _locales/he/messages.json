@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "השבת רענון אוטומטי של FB",
-    "description": "שם התוסף."
+    "message": "השבת רענון אוטומטי של FB"
   },
   "extensionDescription": {
-    "message": "מונע מלשוניות פייסבוק להתרענן אוטומטית בגלל חוסר פעילות ממושך.",
-    "description": "תיאור התוסף."
+    "message": "מונע מדף הפייסבוק להתרענן אוטומטית עקב חוסר פעילות על ידי הדמיית פעילות ברקע."
+  },
+  "popupChecking": {
+    "message": "בודק סטטוס..."
+  },
+  "popupActive": {
+    "message": "התוסף פעיל"
+  },
+  "popupInactiveScript": {
+    "message": "הסקריפט לא נטען. אנא רענן."
+  },
+  "popupInactivePage": {
+    "message": "זה לא דף פייסבוק"
+  },
+  "popupInactiveError": {
+    "message": "שגיאת סקריפט. אנא רענן."
+  },
+  "popupInactiveDetect": {
+    "message": "לא יכול לזהות דף"
+  },
+  "popupRate": {
+    "message": "דרג בחנות"
   }
 }
-

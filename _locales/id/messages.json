@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "Nonaktifkan Refresh Otomatis FB",
-    "description": "Nama ekstensi."
+    "message": "Nonaktifkan Muat Ulang Otomatis FB"
   },
   "extensionDescription": {
-    "message": "Mencegah tab Facebook melakukan refresh otomatis karena tidak aktif dalam waktu lama.",
-    "description": "Deskripsi ekstensi."
+    "message": "Mencegah halaman Facebook memuat ulang secara otomatis karena tidak aktif dengan menyimulasikan aktivitas latar belakang."
+  },
+  "popupChecking": {
+    "message": "Memeriksa status..."
+  },
+  "popupActive": {
+    "message": "Plugin aktif"
+  },
+  "popupInactiveScript": {
+    "message": "Skrip tidak dimuat. Harap segarkan."
+  },
+  "popupInactivePage": {
+    "message": "Bukan halaman Facebook"
+  },
+  "popupInactiveError": {
+    "message": "Kesalahan skrip. Harap segarkan."
+  },
+  "popupInactiveDetect": {
+    "message": "Tidak dapat mendeteksi halaman"
+  },
+  "popupRate": {
+    "message": "Beri nilai di Toko"
   }
 }
-

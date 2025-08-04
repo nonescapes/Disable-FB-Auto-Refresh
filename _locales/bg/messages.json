@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "Деактивиране на FB Автоматично Обновяване",
-    "description": "Името на разширението."
+    "message": "Деактивирай автоматичното обновяване на FB"
   },
   "extensionDescription": {
-    "message": "Предотвратява автоматичното обновяване на Facebook табовете поради продължителна неактивност.",
-    "description": "Описанието на разширението."
+    "message": "Предотвратява автоматичното обновяване на Facebook страницата поради неактивност чрез симулиране на фонова активност."
+  },
+  "popupChecking": {
+    "message": "Проверка на състоянието..."
+  },
+  "popupActive": {
+    "message": "Плъгинът е активен"
+  },
+  "popupInactiveScript": {
+    "message": "Скриптът не е зареден. Моля, обновете."
+  },
+  "popupInactivePage": {
+    "message": "Не е Facebook страница"
+  },
+  "popupInactiveError": {
+    "message": "Грешка в скрипта. Моля, обновете."
+  },
+  "popupInactiveDetect": {
+    "message": "Не може да се открие страницата"
+  },
+  "popupRate": {
+    "message": "Оценете в магазина"
   }
 }
-

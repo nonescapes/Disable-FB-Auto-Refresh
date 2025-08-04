@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "Disabilita Aggiornamento Automatico FB",
-    "description": "Il nome dell'estensione."
+    "message": "Disattiva aggiornamento automatico FB"
   },
   "extensionDescription": {
-    "message": "Impedisce alle schede di Facebook di aggiornarsi automaticamente a causa di inattività prolungata.",
-    "description": "La descrizione dell'estensione."
+    "message": "Impedisce l'aggiornamento automatico della pagina Facebook per inattività simulando attività in background."
+  },
+  "popupChecking": {
+    "message": "Verifica dello stato..."
+  },
+  "popupActive": {
+    "message": "Plugin attivo"
+  },
+  "popupInactiveScript": {
+    "message": "Script non caricato. Aggiornare."
+  },
+  "popupInactivePage": {
+    "message": "Non è una pagina Facebook"
+  },
+  "popupInactiveError": {
+    "message": "Errore script. Aggiornare."
+  },
+  "popupInactiveDetect": {
+    "message": "Impossibile rilevare la pagina"
+  },
+  "popupRate": {
+    "message": "Valuta nello Store"
   }
 }
-

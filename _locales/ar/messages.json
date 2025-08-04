@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "تعطيل التحديث التلقائي لفيسبوك",
-    "description": "اسم الإضافة."
+    "message": "تعطيل التحديث التلقائي للفيسبوك"
   },
   "extensionDescription": {
-    "message": "يمنع علامات تبويب فيسبوك من التحديث التلقائي بسبب عدم النشاط لفترة طويلة.",
-    "description": "وصف الإضافة."
+    "message": "يمنع صفحة الفيسبوك من التحديث التلقائي بسبب عدم النشاط عن طريق محاكاة النشاط في الخلفية."
+  },
+  "popupChecking": {
+    "message": "جارٍ التحقق من الحالة..."
+  },
+  "popupActive": {
+    "message": "الإضافة نشطة"
+  },
+  "popupInactiveScript": {
+    "message": "لم يتم تحميل البرنامج النصي. يرجى التحديث."
+  },
+  "popupInactivePage": {
+    "message": "ليست صفحة فيسبوك"
+  },
+  "popupInactiveError": {
+    "message": "خطأ في البرنامج النصي. يرجى التحديث."
+  },
+  "popupInactiveDetect": {
+    "message": "لا يمكن اكتشاف الصفحة"
+  },
+  "popupRate": {
+    "message": "تقييم في المتجر"
   }
 }
-

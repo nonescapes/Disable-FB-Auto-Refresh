@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "Zakázat FB Automatické Obnovení",
-    "description": "Název rozšíření."
+    "message": "Zakázat automatické obnovení FB"
   },
   "extensionDescription": {
-    "message": "Zabraňuje automatickému obnovování karet Facebook kvůli dlouhodobé nečinnosti.",
-    "description": "Popis rozšíření."
+    "message": "Zabraňuje automatickému obnovení stránky Facebook kvůli nečinnosti simulováním aktivity na pozadí."
+  },
+  "popupChecking": {
+    "message": "Kontrola stavu..."
+  },
+  "popupActive": {
+    "message": "Plugin je aktivní"
+  },
+  "popupInactiveScript": {
+    "message": "Skript se nenačetl. Prosím obnovte."
+  },
+  "popupInactivePage": {
+    "message": "Není to stránka Facebook"
+  },
+  "popupInactiveError": {
+    "message": "Chyba skriptu. Prosím obnovte."
+  },
+  "popupInactiveDetect": {
+    "message": "Nelze detekovat stránku"
+  },
+  "popupRate": {
+    "message": "Ohodnotit v obchodě"
   }
 }
-

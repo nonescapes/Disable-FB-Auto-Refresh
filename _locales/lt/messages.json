@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "Išjungti FB Automatinį Atnaujinimą",
-    "description": "Plėtinio pavadinimas."
+    "message": "Išjungti FB automatinį atnaujinimą"
   },
   "extensionDescription": {
-    "message": "Neleidžia Facebook skirtukams automatiškai atsinaujinti dėl ilgalaikio neveiklumo.",
-    "description": "Plėtinio aprašymas."
+    "message": "Neleidžia Facebook puslapiui automatiškai atsinaujinti dėl neaktyvumo, simuliuojant fono veiklą."
+  },
+  "popupChecking": {
+    "message": "Tikrinamas statusas..."
+  },
+  "popupActive": {
+    "message": "Papildinys aktyvus"
+  },
+  "popupInactiveScript": {
+    "message": "Skriptas neįkeltas. Prašome atnaujinti."
+  },
+  "popupInactivePage": {
+    "message": "Ne Facebook puslapis"
+  },
+  "popupInactiveError": {
+    "message": "Skripto klaida. Prašome atnaujinti."
+  },
+  "popupInactiveDetect": {
+    "message": "Nepavyksta aptikti puslapio"
+  },
+  "popupRate": {
+    "message": "Įvertinti parduotuvėje"
   }
 }
-

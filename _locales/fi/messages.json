@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "Poista FB Automaattinen Päivitys",
-    "description": "Laajennuksen nimi."
+    "message": "Poista FB automaattinen päivitys käytöstä"
   },
   "extensionDescription": {
-    "message": "Estää Facebook-välilehtien automaattisen päivittymisen pitkäaikaisen toimettomuuden vuoksi.",
-    "description": "Laajennuksen kuvaus."
+    "message": "Estää Facebook-sivun automaattisen päivittymisen passiivisuuden vuoksi simuloimalla taustatoimintaa."
+  },
+  "popupChecking": {
+    "message": "Tarkistetaan tilaa..."
+  },
+  "popupActive": {
+    "message": "Laajennus on aktiivinen"
+  },
+  "popupInactiveScript": {
+    "message": "Skripti ei latautunut. Ole hyvä ja päivitä."
+  },
+  "popupInactivePage": {
+    "message": "Ei Facebook-sivu"
+  },
+  "popupInactiveError": {
+    "message": "Skriptivirhe. Ole hyvä ja päivitä."
+  },
+  "popupInactiveDetect": {
+    "message": "Sivua ei voida havaita"
+  },
+  "popupRate": {
+    "message": "Arvostele kaupassa"
   }
 }
-

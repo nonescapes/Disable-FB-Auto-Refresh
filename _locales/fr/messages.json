@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "Désactiver l'actualisation automatique FB",
-    "description": "Le nom de l'extension."
+    "message": "Désactiver l'actualisation auto de FB"
   },
   "extensionDescription": {
-    "message": "Empêche les onglets Facebook de s'actualiser automatiquement en raison d'une inactivité prolongée.",
-    "description": "La description de l'extension."
+    "message": "Empêche la page Facebook de s'actualiser automatiquement en raison de l'inactivité en simulant une activité en arrière-plan."
+  },
+  "popupChecking": {
+    "message": "Vérification du statut..."
+  },
+  "popupActive": {
+    "message": "Le plugin est actif"
+  },
+  "popupInactiveScript": {
+    "message": "Script non chargé. Veuillez actualiser."
+  },
+  "popupInactivePage": {
+    "message": "N'est pas une page Facebook"
+  },
+  "popupInactiveError": {
+    "message": "Erreur de script. Veuillez actualiser."
+  },
+  "popupInactiveDetect": {
+    "message": "Page non détectée"
+  },
+  "popupRate": {
+    "message": "Évaluer sur le Store"
   }
 }
-

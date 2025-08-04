@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "Inaktivera FB Auto-Uppdatering",
-    "description": "Namnet på tillägget."
+    "message": "Inaktivera FB automatisk uppdatering"
   },
   "extensionDescription": {
-    "message": "Förhindrar att Facebook-flikar uppdateras automatiskt på grund av långvarig inaktivitet.",
-    "description": "Beskrivningen av tillägget."
+    "message": "Förhindrar att Facebook-sidan uppdateras automatiskt på grund av inaktivitet genom att simulera bakgrundsaktivitet."
+  },
+  "popupChecking": {
+    "message": "Kontrollerar status..."
+  },
+  "popupActive": {
+    "message": "Plugin är aktiv"
+  },
+  "popupInactiveScript": {
+    "message": "Skript inte laddat. Vänligen uppdatera."
+  },
+  "popupInactivePage": {
+    "message": "Inte en Facebook-sida"
+  },
+  "popupInactiveError": {
+    "message": "Skriptfel. Vänligen uppdatera."
+  },
+  "popupInactiveDetect": {
+    "message": "Kan inte upptäcka sidan"
+  },
+  "popupRate": {
+    "message": "Betygsätt i butiken"
   }
 }
-

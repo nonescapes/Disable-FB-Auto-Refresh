@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "Nyahaktifkan Auto-Refresh FB",
-    "description": "Nama sambungan."
+    "message": "Lumpuhkan Muat Semula Auto FB"
   },
   "extensionDescription": {
-    "message": "Menghalang tab Facebook daripada auto-refresh disebabkan tidak aktif yang berpanjangan.",
-    "description": "Penerangan sambungan."
+    "message": "Menghalang halaman Facebook daripada memuat semula secara automatik kerana tidak aktif dengan mensimulasikan aktiviti latar belakang."
+  },
+  "popupChecking": {
+    "message": "Menyemak status..."
+  },
+  "popupActive": {
+    "message": "Plugin aktif"
+  },
+  "popupInactiveScript": {
+    "message": "Skrip tidak dimuat. Sila muat semula."
+  },
+  "popupInactivePage": {
+    "message": "Bukan halaman Facebook"
+  },
+  "popupInactiveError": {
+    "message": "Ralat skrip. Sila muat semula."
+  },
+  "popupInactiveDetect": {
+    "message": "Tidak dapat mengesan halaman"
+  },
+  "popupRate": {
+    "message": "Nilaikan di Kedai"
   }
 }
-

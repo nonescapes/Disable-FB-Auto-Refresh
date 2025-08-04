@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "FB Otomatik Yenilemeyi Devre Dışı Bırak",
-    "description": "Uzantının adı."
+    "message": "FB Otomatik Yenilemeyi Devre Dışı Bırak"
   },
   "extensionDescription": {
-    "message": "Facebook sekmelerinin uzun süre hareketsizlik nedeniyle otomatik olarak yenilenmesini engeller.",
-    "description": "Uzantının açıklaması."
+    "message": "Arka plan etkinliğini simüle ederek Facebook sayfasının hareketsizlik nedeniyle otomatik olarak yenilenmesini önler."
+  },
+  "popupChecking": {
+    "message": "Durum kontrol ediliyor..."
+  },
+  "popupActive": {
+    "message": "Eklenti aktif"
+  },
+  "popupInactiveScript": {
+    "message": "Betik yüklenmedi. Lütfen yenileyin."
+  },
+  "popupInactivePage": {
+    "message": "Facebook sayfası değil"
+  },
+  "popupInactiveError": {
+    "message": "Betik hatası. Lütfen yenileyin."
+  },
+  "popupInactiveDetect": {
+    "message": "Sayfa algılanamıyor"
+  },
+  "popupRate": {
+    "message": "Mağazada Değerlendir"
   }
 }
-

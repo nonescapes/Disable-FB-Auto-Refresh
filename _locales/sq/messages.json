@@ -1,11 +1,29 @@
 {
   "extensionName": {
-    "message": "Çaktivizo Rifreskimin Automatik të FB",
-    "description": "Emri i shtesës."
+    "message": "Çaktivizo rifreskimin automatik të FB"
   },
   "extensionDescription": {
-    "message": "Parandalon rifreskimin automatik të skedave të Facebook për shkak të pasivitetit të zgjatur.",
-    "description": "Përshkrimi i shtesës."
+    "message": "Parandalon rifreskimin automatik të faqes së Facebook për shkak të mosveprimtarisë duke simuluar aktivitetin në sfond."
+  },
+  "popupChecking": {
+    "message": "Duke kontrolluar statusin..."
+  },
+  "popupActive": {
+    "message": "Plugin-i është aktiv"
+  },
+  "popupInactiveScript": {
+    "message": "Skripti nuk u ngarkua. Ju lutemi rifreskoni."
+  },
+  "popupInactivePage": {
+    "message": "Nuk është faqe Facebook"
+  },
+  "popupInactiveError": {
+    "message": "Gabim skripti. Ju lutemi rifreskoni."
+  },
+  "popupInactiveDetect": {
+    "message": "Nuk mund të zbuloj faqen"
+  },
+  "popupRate": {
+    "message": "Vlerëso në dyqan"
   }
 }
-
